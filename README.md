@@ -10,5 +10,8 @@
       <img width="25" src="linkedin.svg">
     </a>
 </div>
+
+
 ![Snake animation](https://github.com/An4PDM/An4PDM/blob/output/github-contribution-grid-snake.svg)
+
   
