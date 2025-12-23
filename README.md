@@ -1,5 +1,11 @@
 ## Olá, seja muito bem-vindo(a)!
 
+Estudante de TI com foco em Engenharia de Dados, atuando como estagiária na criação e validação de objetos em ambientes relacionais.
+Tenho forte domínio de SQL e Python, aplicados à análise, organização e transformação de informações.
+Atualmente estudo Databricks, explorando notebooks, processamento distribuído e conceitos de pipelines.
+Busco evoluir na construção de soluções escaláveis e bem estruturadas para suportar análises e aplicações.
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
