@@ -2,7 +2,6 @@
 
 Estudante de TI com foco em Engenharia de Dados, atuando como estagiária na criação e validação de objetos em ambientes relacionais.
 Tenho forte domínio de SQL e Python, aplicados à análise, organização e transformação de informações.
-Atualmente estudo Databricks, explorando notebooks, processamento distribuído e conceitos de pipelines.
 Busco evoluir na construção de soluções escaláveis e bem estruturadas para suportar análises e aplicações.
 
 
